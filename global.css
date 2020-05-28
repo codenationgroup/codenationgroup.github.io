@@ -11,6 +11,9 @@ border-radius:10px;
 box-shadow: 0 0 10px 0 #000;
 
 }
+.user-img {
+ background:url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOLovMBarnzqCb2aQ12_U3Vyq1XyULbHM8e-63gOV8oKQZlFov&usqp=CAU')
+}
 ul.list {
 list-style-type: none;
 text-align: center;
