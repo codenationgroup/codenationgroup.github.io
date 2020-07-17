@@ -4,7 +4,10 @@
 </head>
 <body>
 <STYLE type="text/css">
-   @import (http://www.mysite.org/styles/help.css);
+  h1 {
+  text-align:center;   
+}
+
 </STYLE>
 </body>
 </html>
