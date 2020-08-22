@@ -1,7 +1,8 @@
 <html>
+      <head>
       <script src="https://mcapi.us/scripts/minecraft.js"></script>
     <div class="server-status">
-      My awesome server is currently <span class="server-online"></span>!
+     VanillaWorld is currently <span class="server-online"></span>!
     </div>
     <script>
       MinecraftAPI.getServerStatus('vanillaworld', {
@@ -15,8 +16,10 @@
         document.querySelector('.server-online').innerHTML = status.online ? 'up' : 'down';
       });
     </script>
-
- 
-    </body>
+      </head>
+<body>
+ <img src="https://mcapi.us/server/image?ip=vanillaworld.ddns.net">
+      
+</body>
  
 </html>
