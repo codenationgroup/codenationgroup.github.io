@@ -2,10 +2,10 @@
       <head>
       <script src="https://mcapi.us/scripts/minecraft.js"></script>
     <div class="server-status">
-     VanillaWorld is currently <span class="server-online"></span>!
+    VanillaWorld is Currently <span class="server-online"></span>!
     </div>
     <script>
-      MinecraftAPI.getServerStatus('vanillaworld', {
+      MinecraftAPI.getServerStatus('vanillaworld.ddns.net', {
         port: 25565 // optional, only if you need a custom port
       }, function (err, status) {
         if (err) {
