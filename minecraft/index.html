@@ -2,7 +2,7 @@
       <head>
       <script src="https://mcapi.us/scripts/minecraft.js"></script>
     <div class="server-status">
-    VanillaWorld is Currently <span class="server-online"></span>!
+    VanillaWorld is Currently <span class="server-online"></span>.
     </div>
     <script>
       MinecraftAPI.getServerStatus('vanillaworld.ddns.net', {
@@ -13,7 +13,7 @@
         }
 
         // you can change these to your own message!
-        document.querySelector('.server-online').innerHTML = status.online ? 'Active' : 'Taking a nap';
+        document.querySelector('.server-online').innerHTML = status.online ? 'Active' : 'Sleeping...';
       });
     </script>
       </head>
