@@ -1,0 +1,32 @@
+body{
+   background-image: url('https://thecomputerclan.com/assets/look-down.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  }
+  .opening{
+   color:white;
+   text-align:center;
+  }
+  .button {
+        background-color: #332F2E;
+        border: none;
+        color: white;
+        padding: 20px 34px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+   align:center;
+  }
+a {
+ text-align:center;  
+  
+}
+.text {
+ color:white; 
+ text-decoration:none;
+   
+}
