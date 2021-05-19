@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Home of CodeNationGroup/ cngre.tk</title>
+       <link href="https://cngre.github.io/globaldata/cngmain.css"  rel="stylesheet">
+       
+
+
+</head>
+    <body>
+        <img class="logo" src="https://cngre.github.io/globaldata/cnglogo.png" href="https://codenationgroup.github.io/y231jsd">
+
+  
+<div class="topnav">
+<a href=""></a>
+	    </div>
+            <br>
+	    <h1 class="text">Code Nation Group -</h1>
+	    <div class="text">
+	    <a href="" class="text"></a>
+	    <br>
+	    <a href="" class="text"></a>
+	    <br>
+	    <a href="" class="text"></a>
+	    <br>
+	    <a href="" class="text"></a>
+	    <br>
+	    </div>
+	    
+
+        <p class="text">Last Updated on //</p>
+<br> <br> <br> <br>
+
+
+
+
+
+
+    </body>
+    
+</html>
+
