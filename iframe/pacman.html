@@ -1,2 +1,26 @@
+<html>
+  <head>
+  </head>
+<body>
 <iframe src="https://www.thepcmanwebsite.com/media/pacman_flash/" h height="550" width="685
 "  title="pacman">
+<style>
+    iframe{
+        width: 100%;
+        border: 2px solid #ccc;
+    }
+</style>
+</head>
+<body>
+    <iframe src="demo.php" id="myIframe"></iframe>
+    
+    <script>
+    // Selecting the iframe element
+    var iframe = document.getElementById("myIframe");
+    
+    // Adjusting the iframe height onload event
+    iframe.onload = function(){
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+    </script>
+  </body>
