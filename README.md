@@ -4,5 +4,5 @@
 Welcome to the CodeNationGroup Profile Website
 
 ## Links:
-[Discord] [discord-link]
-[discord-link]: https://example.com/
+[I'm an inline-style link](https://www.google.com)
+
